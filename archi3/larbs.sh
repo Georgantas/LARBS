@@ -15,7 +15,7 @@ while getopts ":a:r:b:p:h" o; do case "${o}" in
 esac done
 
 # DEFAULTS:
-[ -z "$dotfilesrepo" ] && dotfilesrepo="https://github.com/Georgantas/voidrice.git" && repobranch="archi3"
+[ -z "$dotfilesrepo" ] && dotfilesrepo="https://github.com/Georgantas/configs.git" && repobranch="archi3"
 [ -z "$progsfile" ] && progsfile="https://raw.githubusercontent.com/Georgantas/LARBS/master/archi3/progs.csv"
 [ -z "$aurhelper" ] && aurhelper="yay"
 [ -z "$repobranch" ] && repobranch="master"
