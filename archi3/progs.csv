@@ -72,3 +72,4 @@ G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's termi
 ,pavucontrol,"for controlling sound and audio inputs."
 A,spotify,"spotify for playing music."
 ,playerctl,"talk to spotify and other players over dbus."
+,scim,"for opening spreadsheets"
